@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>Ben Laforge's Portfolio</title>
+        <style>
+            body {
+                    background-color: #B8B2B2;
+            }
+        </style>
+    </head>
+    
+    <center><body>
+        <div><img src="Bannernew2.jpg"></div>
+        <div><table>
+            <thead>
+                <tr>
+                    <th><a href="index.html"><img src="Home.jpg"></a></th>
+                    <th><a href="javascript.html"><img src="Javascript.jpg"></a></th>
+                    <th><a href="apps.html"><img src="Apps.jpg"></a></th>
+                    <th><a href="about.html"><img src="About2.jpg"></a></th>
+                </tr>
+            </thead>
+            </table></div>
+        
+        <div><h1>Welcome to Ben's Programming Porfolio</h1></div>
+        <div><p>Hello!!! My name is Benjamin Laforge and this is my programming portfolio for my computer science class at the <br> 
+            University of Rhode Island. In this porfolio, I will be documenting what I will be doing in computer science 106. <br>
+            In the javascripts tab, I will be showcasing the variety of javascripts that I will be writing throughout the <br>
+            year. In the apps tab, I will be showcasing the apps that I will be creating. In the about tab, I will be telling <br>
+            you more about myself.</p></div>
+        </body></center>
+</html>
